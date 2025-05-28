@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # README.md:
 
@@ -79,3 +80,7 @@ This project is licensed under the MIT License – feel free to use, share, or i
 ## Contributing
 
 Pull requests are welcome! Feel free to fork the repo and suggest improvements.
+=======
+# snake-water-gun-python
+A simple Snake-Water-Gun terminal game in Python with emoji UI.
+>>>>>>> caa8ad974945ffdd899d90bd8f827d80c1696a60
